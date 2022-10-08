@@ -1,0 +1,12 @@
+{
+    "<Escape>":"fullscreenOff",
+    "<f>":"toggleFullscreen",
+    "<space>":"togglePlay",
+    "<Up>":"volInc",
+    "<Down>":"volDec",
+    "<Right>":"seekRight",
+    "<Left>":"seekLeft",
+    "]":"speedInc",
+    "[":"speedDec",
+    "q": "quit"
+}
